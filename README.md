@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes for Odin
+Recipes for Odin. *Just practicing*
