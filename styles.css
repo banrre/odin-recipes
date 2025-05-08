@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+body {
+    background-color: #fdf7e7;
+    color: black;
+    font-family: monospace, 'Courier New', Arial;
+    width: 75%;
+    margin: auto;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+a, li, p {
+    color: black;
+    font-size: 15px;
+}
+
+a, h1, h2, p, ul, ol, li, strong, em {
+    background-color:  #fdf7e7;
+}
+
+span {
+    background-color: black;
+    color: #fdf7e7;
+}
